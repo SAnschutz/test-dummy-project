@@ -7,8 +7,7 @@ function App() {
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>
-          Changed this back in main. More and more changes and
-          changes.
+          Changed this back in main. More changes for fetch and merge.
         </p>
         <a
           className='App-link'
