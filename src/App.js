@@ -7,7 +7,7 @@ function App() {
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>
-          Changed this back in main. More changes for fetch and merge.
+          Changed this back in main. More changes for pull no rebase.
         </p>
         <a
           className='App-link'
